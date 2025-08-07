@@ -35,10 +35,10 @@ yaivRutina/
 
 ## Capturas de Pantalla
 ### Vista Principal
-![Vista Principal](IndexRutinas.png)
+![Vista Principal](./IndexRutinas.PNG)
 
 ### Ejemplo de Rutina
-![Ejemplo de Rutina](MiRutina.png)
+![Ejemplo de Rutina](./MiRutina.PNG)
 
 ## Tecnologías Utilizadas
 - HTML5
